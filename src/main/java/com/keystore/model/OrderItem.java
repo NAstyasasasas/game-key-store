@@ -32,8 +32,11 @@ public class OrderItem {
     public Game getGame() {
         return game;
     }
+    public String getGameKey() {
+        return gameKey;
+    }
 
-    public BigDecimal getPrice() {
+        public BigDecimal getPrice() {
         return priceAtTime;
     }
 

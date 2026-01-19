@@ -34,8 +34,11 @@ public class Order {
     public List<OrderItem> getItems() {
         return items;
     }
+    public LocalDateTime getCreatedAt() {
+        return createdAt;
+    }
 
-    public void setId(int id) {
+        public void setId(int id) {
         this.id = id;
     }
     public void setUserId(int userId) {

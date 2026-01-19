@@ -96,7 +96,6 @@ public class User {
         this.active = active;
     }
 
-    // toString для отладки
     @Override
     public String toString() {
         return "User{" +

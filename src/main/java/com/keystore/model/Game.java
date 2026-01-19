@@ -67,6 +67,9 @@ public class Game {
     public int getStock() {
         return stock;
     }
+    public String getSellerName() {
+        return sellerName;
+    }
 
     public void setId(int id) {
         this.id = id;
@@ -115,4 +118,5 @@ public class Game {
                 ", stock=" + stock +
                 '}';
     }
+
 }
