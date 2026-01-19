@@ -1,0 +1,692 @@
+04-Dec-2025 20:15:47.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 20:15:47.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 20:15:47.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 20:15:47.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54341
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 20:15:48.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 20:15:48.009 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 20:15:48.115 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:15:48.121 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [206] milliseconds
+04-Dec-2025 20:15:48.134 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 20:15:48.134 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 20:15:48.137 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 20:15:48.434 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 20:15:48.489 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [350] ms
+04-Dec-2025 20:15:48.489 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/SemORIS.xml]
+04-Dec-2025 20:15:48.490 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/SemORIS.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:600)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:569)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1878)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:125)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:524)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:415)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1618)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:300)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:774)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:770)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1201)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1191)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:81)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:149)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:747)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:201)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:410)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:868)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:758)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Ошибка инициализации компонента [org.apache.catalina.webresources.DirResourceSet@d5af0a5]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:404)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:125)
+		at org.apache.catalina.webresources.StandardRoot.initInternal(StandardRoot.java:698)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:155)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4147)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4269)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:597)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: Директория указанная по основному и внутреннему пути [/Users/anastasia/Documents/GitHub/SemORIS/target/classes]/[] не существует.
+		at org.apache.catalina.webresources.DirResourceSet.checkType(DirResourceSet.java:316)
+		at org.apache.catalina.webresources.AbstractFileResourceSet.initInternal(AbstractFileResourceSet.java:248)
+		at org.apache.catalina.webresources.DirResourceSet.initInternal(DirResourceSet.java:323)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		... 42 more
+04-Dec-2025 20:15:48.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/SemORIS.xml] has finished in [2] ms
+04-Dec-2025 20:15:48.492 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:15:48.495 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [373] milliseconds
+04-Dec-2025 20:21:38.155 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:21:38.157 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 20:21:38.159 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 20:21:38.161 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:21:38.163 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:22:06.278 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 20:22:06.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 20:22:06.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 20:22:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 20:22:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 20:22:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54594
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 20:22:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 20:22:06.290 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 20:22:06.395 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:22:06.400 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [188] milliseconds
+04-Dec-2025 20:22:06.411 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 20:22:06.411 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 20:22:06.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 20:22:06.678 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 20:22:06.732 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [317] ms
+04-Dec-2025 20:22:06.733 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 20:22:06.736 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [335] milliseconds
+04-Dec-2025 21:48:51.037 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:48:51.043 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 21:48:51.047 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 21:48:51.050 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:48:51.053 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:49:41.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 21:49:41.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 21:49:41.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 21:49:41.527 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 21:49:41.528 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 21:49:41.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58043
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 21:49:41.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 21:49:41.539 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 21:49:41.645 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:49:41.649 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [196] milliseconds
+04-Dec-2025 21:49:41.664 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 21:49:41.664 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 21:49:41.667 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 21:49:41.942 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 21:49:41.997 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [329] ms
+04-Dec-2025 21:49:41.998 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:49:42.001 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [351] milliseconds
+04-Dec-2025 21:59:29.929 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:59:29.933 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 21:59:29.937 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 21:59:29.939 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:59:29.941 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:59:30.718 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 21:59:30.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58429
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 21:59:30.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 21:59:30.729 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 21:59:30.839 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:59:30.844 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [191] milliseconds
+04-Dec-2025 21:59:30.855 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 21:59:30.855 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 21:59:30.858 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 21:59:31.215 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 21:59:31.274 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [415] ms
+04-Dec-2025 21:59:31.275 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 21:59:31.278 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [433] milliseconds
+04-Dec-2025 22:04:11.708 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:04:11.710 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 22:04:11.713 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 22:04:11.714 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:04:11.716 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:04:12.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 22:04:12.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 22:04:12.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 22:04:12.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 22:04:12.498 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58632
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 22:04:12.499 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 22:04:12.503 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 22:04:12.605 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:04:12.610 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [186] milliseconds
+04-Dec-2025 22:04:12.622 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 22:04:12.622 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 22:04:12.625 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 22:04:12.902 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 22:04:12.954 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [328] ms
+04-Dec-2025 22:04:12.955 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:04:12.958 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [347] milliseconds
+04-Dec-2025 22:10:08.695 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:10:08.698 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 22:10:08.701 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 22:10:08.702 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:10:08.704 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:10:09.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 22:10:09.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58881
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 22:10:09.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 22:10:09.495 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 22:10:09.593 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:10:09.598 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [186] milliseconds
+04-Dec-2025 22:10:09.609 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 22:10:09.609 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 22:10:09.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 22:10:09.877 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 22:10:09.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [320] ms
+04-Dec-2025 22:10:09.935 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 22:10:09.937 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [339] milliseconds
+04-Dec-2025 23:04:32.876 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:04:32.882 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:04:32.891 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:04:32.893 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:04:32.906 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:04:34.046 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:04:34.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62636
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:04:34.053 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:04:34.059 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:04:34.164 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:04:34.169 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [191] milliseconds
+04-Dec-2025 23:04:34.185 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:04:34.185 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:04:34.188 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:04:34.461 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:04:34.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [327] ms
+04-Dec-2025 23:04:34.517 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:04:34.520 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [350] milliseconds
+04-Dec-2025 23:08:37.227 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:08:37.235 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:08:37.243 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:08:37.247 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:08:37.257 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:08:38.372 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:08:38.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:08:38.378 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=64666
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:08:38.379 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:08:38.385 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:08:38.485 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:08:38.489 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [187] milliseconds
+04-Dec-2025 23:08:38.502 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:08:38.502 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:08:38.505 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:08:38.779 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:08:38.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [341] ms
+04-Dec-2025 23:08:38.848 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:08:38.851 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [361] milliseconds
+04-Dec-2025 23:12:24.608 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:12:24.612 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:12:24.615 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:12:24.616 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:12:24.618 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:12:25.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:12:25.416 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:12:25.417 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49868
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:12:25.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:12:25.427 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:12:25.557 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:12:25.562 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [258] milliseconds
+04-Dec-2025 23:12:25.574 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:12:25.574 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:12:25.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:12:25.842 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:12:25.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [318] ms
+04-Dec-2025 23:12:25.896 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:12:25.899 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [336] milliseconds
+04-Dec-2025 23:27:31.763 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:27:31.768 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:27:31.773 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:27:31.775 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:27:31.777 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:27:32.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:27:32.611 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:27:32.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:27:32.612 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52944
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:27:32.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:27:32.620 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:27:32.725 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:27:32.731 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [182] milliseconds
+04-Dec-2025 23:27:32.743 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:27:32.744 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:27:32.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:27:33.027 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:27:33.086 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [339] ms
+04-Dec-2025 23:27:33.087 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:27:33.090 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [359] milliseconds
+04-Dec-2025 23:29:47.802 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:29:47.804 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:29:47.806 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:29:47.808 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:29:47.810 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:29:48.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:29:48.817 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:29:48.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:29:48.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53861
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:29:48.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:29:48.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:29:48.928 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:29:48.933 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [186] milliseconds
+04-Dec-2025 23:29:48.945 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:29:48.945 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:29:48.948 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:29:49.214 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:29:49.268 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [319] ms
+04-Dec-2025 23:29:49.269 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:29:49.271 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [337] milliseconds
+04-Dec-2025 23:37:52.686 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:37:52.691 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:37:52.696 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:37:52.698 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:37:52.699 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:37:53.473 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:37:53.474 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:37:53.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:37:53.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55052
+04-Dec-2025 23:37:53.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:37:53.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:37:53.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:37:53.489 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:37:53.598 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:37:53.604 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [202] milliseconds
+04-Dec-2025 23:37:53.616 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:37:53.616 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:37:53.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:37:53.908 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:37:53.967 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [346] ms
+04-Dec-2025 23:37:53.968 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:37:53.971 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [366] milliseconds
+04-Dec-2025 23:41:08.826 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:41:08.830 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:41:08.835 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:41:08.837 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:41:08.838 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:41:09.587 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:41:09.589 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=55533
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:41:09.594 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:41:09.600 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:41:09.709 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:41:09.715 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [197] milliseconds
+04-Dec-2025 23:41:09.727 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:41:09.727 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:41:09.729 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:41:10.004 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:41:10.058 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [328] ms
+04-Dec-2025 23:41:10.059 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:41:10.062 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [346] milliseconds
+04-Dec-2025 23:45:56.029 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:45:56.032 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:45:56.035 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:45:56.036 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:45:56.038 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:45:57.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:45:57.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:45:57.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:45:57.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:45:57.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:45:57.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:45:57.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:45:57.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:45:57.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=56935
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:45:57.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:45:57.218 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:45:57.321 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:45:57.327 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [189] milliseconds
+04-Dec-2025 23:45:57.340 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:45:57.340 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:45:57.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:45:57.611 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:45:57.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [321] ms
+04-Dec-2025 23:45:57.667 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:45:57.669 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [342] milliseconds
+04-Dec-2025 23:48:58.228 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:48:58.232 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:48:58.235 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:48:58.236 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:48:58.238 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:48:59.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:48:59.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:48:59.385 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:48:59.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57966
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:48:59.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:48:59.394 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:48:59.496 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:48:59.501 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [188] milliseconds
+04-Dec-2025 23:48:59.517 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:48:59.517 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:48:59.520 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:48:59.789 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:48:59.844 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [323] ms
+04-Dec-2025 23:48:59.845 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:48:59.848 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [346] milliseconds
+04-Dec-2025 23:51:54.607 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:51:54.610 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Dec-2025 23:51:54.613 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [game-key-store] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Dec-2025 23:51:54.614 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:51:54.616 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:51:55.757 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.49
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2025 01:31:11 UTC
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.49.0
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             26.1
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           aarch64
+04-Dec-2025 23:51:55.759 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/anastasia/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home
+04-Dec-2025 23:51:55.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            25+36-3489
+04-Dec-2025 23:51:55.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+04-Dec-2025 23:51:55.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:51:55.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:51:55.765 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anastasia/Downloads/apache-tomcat-10.1.49
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anastasia/Documents/GitHub/game-key-store
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anastasia/Documents/GitHub/game-key-store/temp
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anastasia/Documents/GitHub/game-key-store/conf/logging.properties
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59110
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+04-Dec-2025 23:51:55.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+04-Dec-2025 23:51:55.771 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/anastasia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Dec-2025 23:51:55.908 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:51:55.914 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [234] milliseconds
+04-Dec-2025 23:51:55.927 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Dec-2025 23:51:55.927 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+04-Dec-2025 23:51:55.930 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml]
+04-Dec-2025 23:51:56.195 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Dec-2025 23:51:56.250 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/anastasia/Documents/GitHub/game-key-store/conf/Catalina/localhost/game-key-store.xml] has finished in [319] ms
+04-Dec-2025 23:51:56.251 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+04-Dec-2025 23:51:56.254 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [339] milliseconds
